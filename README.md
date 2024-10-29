@@ -44,11 +44,5 @@ java -cp ".:lib/*" com.controller.Student_Controller
 <h2>Usage</h2>
 <p>Follow the on-screen menu to perform operations on student records.</p>
 
-<h2>License</h2>
-<p>This project is licensed under the MIT License.</p>
-
-<h2>Author</h2>
-<p>Developed by [Your Name]</p>
-
 </body>
 </html>
